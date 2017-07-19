@@ -6,7 +6,7 @@ More precisely, using Docker and Docker-Compose in creating local development en
 
 ## Plan
 
-- follow the official tutorial [https://docs.docker.com/compose/rails/#stop-the-application](https://docs.docker.com/compose/rails/#stop-the-application)
+- follow the official tutorial [https://docs.docker.com/compose/rails/](https://docs.docker.com/compose/rails/)
 - make the database persist using Docker volumes
 - try the same for a legacy project on Rails, e.g. [https://github.com/fulcrum-agile/fulcrum](https://github.com/fulcrum-agile/fulcrum)
 
